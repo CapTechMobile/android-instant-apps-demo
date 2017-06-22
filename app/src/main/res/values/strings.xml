@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Main app welcome content strings -->
+    <string name="welcome_message">Welcome</string>
+    <string name="welcome_body">You are in the full, installed app for viewing and shopping for
+        collections of cacti! This app\'s purpose is to demo two instant apps, and show the
+        resources that they share. Each option below leads to a feature, and both features can be
+        launched as their own instant apps.</string>
+
+</resources>

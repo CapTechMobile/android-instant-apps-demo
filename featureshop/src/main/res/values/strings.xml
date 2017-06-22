@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Action bar title -->
+    <string name="action_bar_title">Cacti Shop</string>
+
+    <!-- Shop card labels -->
+    <string name="card_quantity_label">Qty:</string>
+    <string name="card_item_in_stock">In stock</string>
+    <string name="card_item_out_of_stock">Out of stock</string>
+
+    <!-- Action bar strings -->
+    <string name="action_done">done</string>
+    <string name="action_done_message">This is when you would enter payment information, and
+        complete the checkout process.</string>
+
+</resources>

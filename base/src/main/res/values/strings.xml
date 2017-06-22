@@ -1,0 +1,20 @@
+<resources>
+    <!-- These resource strings are used in one or both child features. -->
+
+    <!-- App name -->
+    <string name="app_name">Cacti Collector</string>
+
+    <!-- Cacti titles (this normally comes from a data tier) -->
+    <string name="cactus_1_title">Haworthia</string>
+    <string name="cactus_2_title">Cactoideae</string>
+    <string name="cactus_3_title">Rounded Point Cactus</string>
+    <string name="cactus_4_title">Air Succulent</string>
+    <string name="cactus_5_title">Echeveria Succulent</string>
+
+    <!-- Action bar strings -->
+    <string name="action_install">install</string>
+    <string name="action_install_message">This is where you would prompt the user with a button that
+        links them to the full app in the play store.\nNote that this action button will not appear
+        in the full app.</string>
+
+</resources>

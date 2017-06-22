@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Action bar title -->
+    <string name="action_bar_title">Cacti Information</string>
+
+    <!-- Action bar strings -->
+    <string name="action_info">info</string>
+    <string name="action_info_message">This represents an instant app, containing a feature for
+        showing cacti information in a RecyclerView.  When this instant app is closed, it will be
+        wiped from the device.</string>
+
+    <!-- Cacti descriptions (this normally comes from a data tier) -->
+    <string name="cactus_1_desc">A large genus of small succulent plants. They generally resemble
+        miniature aloes, mainly in their petite appearance.</string>
+    <string name="cactus_2_desc">These are the largest subfamily of the cactus family, Cactaceae.
+        They grow from 1 cm 20 meters in height.</string>
+    <string name="cactus_3_desc">Similar to the Cactoideae, these are another family of the cactus
+        family, Cactaceae. Prickly in appearance.</string>
+    <string name="cactus_4_desc">This succulent lives solely off of moisture in the air, and
+        sunlight.  Its inner gel can heal burns.</string>
+    <string name="cactus_5_desc">Native to Central America, this succulent is similar to the air
+        succulent - its gel can heal burns and skin wounds.</string>
+
+</resources>
